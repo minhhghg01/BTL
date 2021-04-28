@@ -1,0 +1,22 @@
+#pragma once
+#include "_SDL.h"
+
+class G2048{
+public:
+
+    G2048() {}
+    void init()
+    {  memset(a, 0, sizeof(a)); }
+    bool gameWin();
+    bool gameOver();
+    void leftMove();
+    void rightMove();
+    void upMove();
+    void downMove();
+    void random();
+    void print();
+    bool empty() { return emp; }
+private:
+    int a[4][4];
+    bool emp = true;
+};

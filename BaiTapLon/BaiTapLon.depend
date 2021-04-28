@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1619626055 source:c:\users\tinh\desktop\baitaplon\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"Text.h"
+	"common.h"
+	"G2048.h"
+
+1619627169 source:c:\users\tinh\desktop\baitaplon\g2048.cpp
+	"G2048.h"
+	"Text.h"
+	"common.h"
+	<bits/stdc++.h>
+
+1619491201 c:\users\tinh\desktop\baitaplon\g2048.h
+	"_SDL.h"
+	"common.h"
+
+1618548447 c:\users\tinh\desktop\baitaplon\_sdl.h
+	<SDL.h>
+
+1618802056 c:\users\tinh\desktop\baitaplon\text.h
+	"_SDL.h"
+	<iostream>
+
+1618547211 c:\users\tinh\desktop\baitaplon\sdlcolor.h
+	<SDL.h>
+	"common.h"
+
+1618547418 source:c:\users\tinh\desktop\baitaplon\_sdl.cpp
+
+1618547416 source:c:\users\tinh\desktop\baitaplon\sdlcolor.cpp
+
+1618804449 source:c:\users\tinh\desktop\baitaplon\text..cpp
+	"Text.h"
+	<SDL_ttf.h>
+	"common.h"
+
+1619494615 c:\users\tinh\desktop\baitaplon\common.h
+	<iostream>
+	<SDL.h>
+
+1618549166 source:c:\users\tinh\desktop\baitaplon\common.cpp
+	"common.h"
+
+1619490539 source:c:\users\tinh\desktop\baitaplon\text.cpp
+	"Text.h"
+	<SDL_ttf.h>
+	"common.h"
+
+1619622008 c:\users\tinh\desktop\baitaplon\img.h
+	<SDL_image.h>
+	<SDL.h>
+	<string>
+
+1619622030 source:c:\users\tinh\desktop\baitaplon\img.cpp
+	"img.h"
+	<iostream>
+
